@@ -1,0 +1,4 @@
+baseURL = 'https://blog.nemshilov.com/'
+languageCode = 'en-us'
+title = 'Thoughts'
+theme = 'PaperMod'
